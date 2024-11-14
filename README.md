@@ -54,4 +54,6 @@ Our solution is an AI/ML-powered software tool that predicts the risk of various
 This AI/ML-based solution has the potential to revolutionize the early detection of diseases by giving healthcare providers accurate, personalized, and explainable risk assessments. By integrating advanced machine learning models with explainability features and ensuring adaptability across different patient populations, this system empowers healthcare professionals to make timely and informed decisions that can ultimately improve patient care and health outcomes.
 
 ---
+![image](https://github.com/user-attachments/assets/fd62666a-159e-40ab-ab7f-cff8c9ba41e4)
+
 
